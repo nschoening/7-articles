@@ -1,4 +1,23 @@
 html{
     background-color: azure;
+    font-family: "Domine", serif;
 }
 
+ul{
+    margin: 0;
+}
+
+.nav-color{
+    background-color: aqua;
+    padding: 10px;
+}
+
+.main{
+    background-color: deeppink;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.site-footer{
+    padding: 10px;
+}
