@@ -1,0 +1,28 @@
+html{
+    background-color: azure;
+}
+
+.site-header{
+    background-color: hotpink;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-main{
+    background-color: yellow;
+}
+
+.article-section{
+    background-color: rgb(255, 222, 59);
+}
+
+.callout{
+    background-color: pink;
+}
+
+.site-footer{
+    background-color: aquamarine;
+}
